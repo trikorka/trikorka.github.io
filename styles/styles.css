@@ -1,0 +1,39 @@
+body {
+    background: #1F1F1F;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    font-size: 10vw;
+    font-weight: bold;
+    font-family: monospace;
+    color: #569CD6;
+    text-decoration: none;
+}
+
+a:visited {
+    font-size: 10vw;
+    font-weight: bold;
+    font-family: monospace;
+    color: #569CD6;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 10vw;
+    font-weight: bold;
+    font-family: monospace;
+    color: #CE9178;
+    text-decoration: underline;
+}
+
+span {
+    font-size: 10vw;
+    font-weight: bold;
+    font-family: monospace;
+    color: #808080;
+    text-decoration: none;
+}
